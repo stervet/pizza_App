@@ -18,15 +18,15 @@ The app simulates a pizza ordering system and serves as a playground for explori
 ---
 
 ## 📋 Features (Planned & Implemented)
-- 🍽️ Dynamic pizza menu loaded from an API  
-- 🛒 Add multiple pizzas to a cart before ordering  
-- 📝 Simple checkout with name, phone number, and address (no login required)  
-- ⭐ Mark orders as **priority** (+20% of cart price)  
-- 📍 (Optional) Capture GPS location for easier delivery  
-- 📡 Send orders via **POST requests** to the API  
-- 🆔 Generate unique order IDs for tracking  
-- 🔄 Update orders after they are placed (e.g., set to “priority”)  
-- 💵 Payment on delivery only  
+- Dynamic pizza menu loaded from an API  
+- Add multiple pizzas to a cart before ordering  
+- Simple checkout with name, phone number, and address (no login required)  
+- Mark orders as **priority** (+20% of cart price)  
+- (Optional) Capture GPS location for easier delivery  
+- Send orders via **POST requests** to the API  
+- Generate unique order IDs for tracking  
+- Update orders after they are placed (e.g., set to “priority”)  
+- Payment on delivery only  
 
 ---
 
