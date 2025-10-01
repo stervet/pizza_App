@@ -39,7 +39,7 @@ npm run dev
 
 ---
 
-🎯 Purpose
+## 🎯 Purpose
 
 This project is purely for learning React best practices and experimenting with:
 - Modern component patterns
