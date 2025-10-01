@@ -17,16 +17,13 @@ The app simulates a pizza ordering system and serves as a playground for explori
 
 ---
 
-## 📋 Features (Planned & Implemented)
-- Dynamic pizza menu loaded from an API  
-- Add multiple pizzas to a cart before ordering  
-- Simple checkout with name, phone number, and address (no login required)  
-- Mark orders as **priority** (+20% of cart price)  
-- (Optional) Capture GPS location for easier delivery  
-- Send orders via **POST requests** to the API  
-- Generate unique order IDs for tracking  
-- Update orders after they are placed (e.g., set to “priority”)  
-- Payment on delivery only  
+## 📋 Features  
+✅ Dynamic pizza menu from an API  
+✅ Add multiple pizzas to a cart before checkout  
+✅ Simple checkout with name, phone, and address (no login)  
+✅ Priority orders (+20% cart price)  
+✅ Update orders after placement (e.g. mark as priority)  
+✅ Payment on delivery only  
 
 ---
 
@@ -38,3 +35,14 @@ git clone https://github.com/<your-username>/pizza-app.git
 cd pizza-app
 npm install
 npm run dev
+```
+
+---
+
+🎯 Purpose
+
+This project is purely for learning React best practices and experimenting with:
+- Modern component patterns
+- State management (local vs global)
+- API data loading and mutations
+- Responsive design with Tailwind
